@@ -1,0 +1,17 @@
+django
+django-cors-headers
+djangorestframework
+djangorestframework_simplejwt
+django-silk
+python-dotenv
+celery
+redis
+adrf
+asgiref
+drf-spectacular
+uvicorn
+gunicorn
+pyjwt
+Faker
+flower
+django-celery-beat

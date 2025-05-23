@@ -172,3 +172,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+celerybeat-schedule.db
+db.sqlite3
+django.db
+docker-compose.yml
+stack.yml
